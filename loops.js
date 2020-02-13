@@ -13,5 +13,4 @@ while (whileLoop(n)) {
 }
 }
 
-function doWhileLoop(num){
-}
+
