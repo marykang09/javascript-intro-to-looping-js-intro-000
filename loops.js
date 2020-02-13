@@ -9,6 +9,6 @@ function whileLoop(n){
 let countdown = n;
 return console.log(--countdown) > 0;
 while (whileLoop(n)) {
-  return 'done';
+  console.log 'done';
 }
 }
