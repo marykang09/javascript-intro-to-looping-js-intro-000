@@ -6,12 +6,13 @@ return array;
 }
 
 function whileLoop(n){
-  let countdown = n;
-  return 'done';
-  while (whileLoop(n)) {
-    console.log(--countdown);
+while (n > 0) {
+      n-- ;
+      console.log(n)
+    }
+  return  "done"
   }
-}
+
 
 function doWhileLoop(num){
 function incrementVariable() {
