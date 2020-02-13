@@ -8,7 +8,7 @@ return array;
 function whileLoop(n){
 let countdown = n;
 return console.log(--countdown) > 0;
-while (whileLoop(n)) {
+while (whileLoop(n) > 0) {
   console.log('done');
 }
 }
