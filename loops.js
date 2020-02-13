@@ -1,2 +1,3 @@
 function forLoop(array){
+
 }
