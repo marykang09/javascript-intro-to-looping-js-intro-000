@@ -12,3 +12,7 @@ function whileLoop(n){
     console.log(--countdown);
   }
 }
+
+function doWhileLoop(num){
+
+}
