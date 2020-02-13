@@ -4,3 +4,7 @@ array.push(i === 1 ? 'I am 1 strange loop.' : `I am ${i} strange loops.`);
 }
 return array;
 }
+
+function whileLoop(n){
+
+}
